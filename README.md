@@ -18,17 +18,6 @@
 </div>
 
 
-<div align="center">
-
-  `Desarrollador entusiasta`
-  <br>
-
-  `=========================`
-  <br>
-
-  `¯\_(ツ)_/¯`
-</div>
-
 <div>
 
   ## 🛠️ &nbsp;Tecnologias
