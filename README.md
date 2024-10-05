@@ -66,7 +66,7 @@
   ## 📫 &nbsp;Mis contactos
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Manuel Urdaneta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-urdaneta-474412240/)](https://www.linkedin.com/in/manuel-urdaneta-474412240/)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Manuel_Urdaneta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-urdaneta-474412240/)](https://www.linkedin.com/in/manuel-urdaneta-474412240/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-m4nufra@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:m4nufra@gmail.com)&nbsp;
 
 
