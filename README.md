@@ -7,10 +7,10 @@
 <div>
 
   ## 🧭 &nbsp; Sobre Mí
-  Desarrollador frontend apasionado por crear interfaces de usuario intuitivas y atractivas. He trabajado con tecnologías como React, Vue y Next.js y también Node.js y PHP para desarrollo backend.
+  Desarrollador web apasionado por la técnologia. He trabajado con React, Vue, Next.js en fontend y Node.js, Laravel, Codeignither y php para desarrollo backend.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  🌱 Siempre estoy estudiando JavaScript , TypeScript , ReactJS , NodeJS
+  - 🌱  🌱 Siempre estoy estudiando
 
   <br>
   
